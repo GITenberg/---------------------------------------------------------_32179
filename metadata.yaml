@@ -1,0 +1,43 @@
+_repo: '---------------------------------------------------------_32179'
+_version: 0.1.0
+alternative_title: The shepherdess with the pearls and other short stories
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nirvanas, Paulos
+    aliases:
+    - Αποστολιδης, Πετρος
+    - Νιρβάνας, Παύλος
+    - Apostolides, Petros
+    - Nirbanas, Paulos
+    - Nirvanas, Pavlos
+    - Νιρβανας, Παυλος
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '35713'
+    url: http://www.gutenberg.org/2009/agents/35713
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A0%CE%B1%CF%8D%CE%BB%CE%BF%CF%82_%CE%9D%CE%B9%CF%81%CE%B2%CE%AC%CE%BD%CE%B1%CF%82
+description: ''
+gutenberg_issued: '2010-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32179'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PA'
+- !lcsh 'Short stories, Greek'
+tableOfContents: Η Βοσκοπούλα με τα μαργαριτάρια -- Το Βασιλόπουλο που χαμογελούσε
+  -- Το αγαπημένο αντρόγυνο -- Ο γάμος της πεντάμορφης -- Η εκδίκηση του καμπούρη
+  -- Ψεύτρα αγάπη -- Η Πολιτεία της σιωπής -- Η στερνή αγάπη της Δροσούλας -- Η καρδιά
+  της κούκλας -- Ο Καμπούρης -- Η αγάπη του σκιάχτρου -- Ο ανθρώπινος πόνος -- Ο προφήτης
+  -- Οι μενεξέδες -- Το δρομαλάκι της ευτυχίας -- Τα μάτια του τυφλού -- Όμορφος κόσμος
+  -- Το φιλί -- Το ατέλειωτο παραμύθι -- Ο πλούσιος, ο φτωχός και ο φιλόσοφος -- Στις
+  όχθες του ποταμού.
+title: Η βοσκοπούλα με τα μαργαριτάρια και άλλες μικρές ιστορίες
+url: http://www.gutenberg.org/ebooks/32179
